@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\ConsoleAppATON12\bin\Debug\net8.0\ConsoleAppATON12.exe
+C:\Users\Admin\source\repos\ConsoleAppATON12\bin\Debug\net8.0\ConsoleAppATON12.deps.json
+C:\Users\Admin\source\repos\ConsoleAppATON12\bin\Debug\net8.0\ConsoleAppATON12.runtimeconfig.json
+C:\Users\Admin\source\repos\ConsoleAppATON12\bin\Debug\net8.0\ConsoleAppATON12.dll
+C:\Users\Admin\source\repos\ConsoleAppATON12\bin\Debug\net8.0\ConsoleAppATON12.pdb
+C:\Users\Admin\source\repos\ConsoleAppATON12\obj\Debug\net8.0\ConsoleAppATON12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\ConsoleAppATON12\obj\Debug\net8.0\ConsoleAppATON12.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ConsoleAppATON12\obj\Debug\net8.0\ConsoleAppATON12.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ConsoleAppATON12\obj\Debug\net8.0\ConsoleAppATON12.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ConsoleAppATON12\obj\Debug\net8.0\ConsoleAppATON12.dll
+C:\Users\Admin\source\repos\ConsoleAppATON12\obj\Debug\net8.0\refint\ConsoleAppATON12.dll
+C:\Users\Admin\source\repos\ConsoleAppATON12\obj\Debug\net8.0\ConsoleAppATON12.pdb
+C:\Users\Admin\source\repos\ConsoleAppATON12\obj\Debug\net8.0\ConsoleAppATON12.genruntimeconfig.cache
+C:\Users\Admin\source\repos\ConsoleAppATON12\obj\Debug\net8.0\ref\ConsoleAppATON12.dll
