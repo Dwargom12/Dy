@@ -1,0 +1,15 @@
+D:\Dy\Activity 2\bin\Debug\net8.0\Activity 2.exe
+D:\Dy\Activity 2\bin\Debug\net8.0\Activity 2.deps.json
+D:\Dy\Activity 2\bin\Debug\net8.0\Activity 2.runtimeconfig.json
+D:\Dy\Activity 2\bin\Debug\net8.0\Activity 2.dll
+D:\Dy\Activity 2\bin\Debug\net8.0\Activity 2.pdb
+D:\Dy\Activity 2\obj\Debug\net8.0\Activity 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dy\Activity 2\obj\Debug\net8.0\Activity 2.AssemblyInfoInputs.cache
+D:\Dy\Activity 2\obj\Debug\net8.0\Activity 2.AssemblyInfo.cs
+D:\Dy\Activity 2\obj\Debug\net8.0\Activity 2.csproj.CoreCompileInputs.cache
+D:\Dy\Activity 2\obj\Debug\net8.0\Activity 2.sourcelink.json
+D:\Dy\Activity 2\obj\Debug\net8.0\Activity 2.dll
+D:\Dy\Activity 2\obj\Debug\net8.0\refint\Activity 2.dll
+D:\Dy\Activity 2\obj\Debug\net8.0\Activity 2.pdb
+D:\Dy\Activity 2\obj\Debug\net8.0\Activity 2.genruntimeconfig.cache
+D:\Dy\Activity 2\obj\Debug\net8.0\ref\Activity 2.dll
