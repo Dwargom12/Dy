@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleAppATON12")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c028d7872ba7ef9b673368ab2a065bfeffd3cf4c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+43bf3c0b23c39bb4c702334120871f188816a0c9")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleAppATON12")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleAppATON12")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

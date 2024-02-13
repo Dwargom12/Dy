@@ -1,0 +1,15 @@
+D:\Dy\AssignmentQuiz1Aton\bin\Debug\net8.0\AssignmentQuiz1Aton.exe
+D:\Dy\AssignmentQuiz1Aton\bin\Debug\net8.0\AssignmentQuiz1Aton.deps.json
+D:\Dy\AssignmentQuiz1Aton\bin\Debug\net8.0\AssignmentQuiz1Aton.runtimeconfig.json
+D:\Dy\AssignmentQuiz1Aton\bin\Debug\net8.0\AssignmentQuiz1Aton.dll
+D:\Dy\AssignmentQuiz1Aton\bin\Debug\net8.0\AssignmentQuiz1Aton.pdb
+D:\Dy\AssignmentQuiz1Aton\obj\Debug\net8.0\AssignmentQuiz1Aton.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dy\AssignmentQuiz1Aton\obj\Debug\net8.0\AssignmentQuiz1Aton.AssemblyInfoInputs.cache
+D:\Dy\AssignmentQuiz1Aton\obj\Debug\net8.0\AssignmentQuiz1Aton.AssemblyInfo.cs
+D:\Dy\AssignmentQuiz1Aton\obj\Debug\net8.0\AssignmentQuiz1Aton.csproj.CoreCompileInputs.cache
+D:\Dy\AssignmentQuiz1Aton\obj\Debug\net8.0\AssignmentQuiz1Aton.sourcelink.json
+D:\Dy\AssignmentQuiz1Aton\obj\Debug\net8.0\AssignmentQuiz1Aton.dll
+D:\Dy\AssignmentQuiz1Aton\obj\Debug\net8.0\refint\AssignmentQuiz1Aton.dll
+D:\Dy\AssignmentQuiz1Aton\obj\Debug\net8.0\AssignmentQuiz1Aton.pdb
+D:\Dy\AssignmentQuiz1Aton\obj\Debug\net8.0\AssignmentQuiz1Aton.genruntimeconfig.cache
+D:\Dy\AssignmentQuiz1Aton\obj\Debug\net8.0\ref\AssignmentQuiz1Aton.dll
